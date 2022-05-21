@@ -1,0 +1,52 @@
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.AssemblyInfo.cs
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.staticwebassets.runtime.json
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.exe
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.deps.json
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.runtimeconfig.json
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.dll
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.pdb
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\scopedcss\bundle\WebApplicationcom3.styles.css
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.dll
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\refint\WebApplicationcom3.dll
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.pdb
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.genruntimeconfig.cache
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\ref\WebApplicationcom3.dll
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\scopedcss\projectbundle\WebApplicationcom3.bundle.scp.css
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\appsettings.Development.json
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\appsettings.json
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.staticwebassets.runtime.json
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.exe
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.deps.json
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.runtimeconfig.json
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.dll
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\bin\Debug\net6.0\WebApplicationcom3.pdb
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.csproj.AssemblyReference.cache
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.GeneratedMSBuildEditorConfig.editorconfig
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.AssemblyInfoInputs.cache
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.AssemblyInfo.cs
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.csproj.CoreCompileInputs.cache
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.MvcApplicationPartsAssemblyInfo.cache
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.RazorAssemblyInfo.cache
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.RazorAssemblyInfo.cs
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\staticwebassets.build.json
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\staticwebassets.development.json
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\scopedcss\bundle\WebApplicationcom3.styles.css
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\scopedcss\projectbundle\WebApplicationcom3.bundle.scp.css
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.dll
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\refint\WebApplicationcom3.dll
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.pdb
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\WebApplicationcom3.genruntimeconfig.cache
+E:\fcai\level 3 term2\Compilers\Project\WebApplicationcom3\WebApplicationcom3\WebApplicationcom3\obj\Debug\net6.0\ref\WebApplicationcom3.dll

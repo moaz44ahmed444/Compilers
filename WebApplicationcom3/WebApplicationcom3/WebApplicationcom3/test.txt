@@ -1,0 +1,11 @@
+/$T$/
+
+$$$ wwq
+
+worthless decreace(){
+
+int 3num=5;
+
+LoopWheen(counter<num){
+
+reg3=reg3-1;}}

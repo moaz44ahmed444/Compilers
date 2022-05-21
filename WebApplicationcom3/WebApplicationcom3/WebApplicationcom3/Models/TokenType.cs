@@ -1,0 +1,29 @@
+﻿namespace WebApplicationcom3.Models
+{
+    public enum tokenType
+    {
+        Condition,
+        Integer,
+        SInteger,
+        Character,
+        String,
+        Float,
+        SFloat,
+        Void,
+        Loop,
+        Return,
+        AtritmerticOperation,
+        LogicOperation,
+        relationOperation,
+        AssignmentOperator,
+        AcessOperator,
+        Braces,
+        Constant,
+        QuotationMark,
+        Inclusion,
+        BadToken,
+        Break,
+        Struct,
+        Identifier
+    }
+}
